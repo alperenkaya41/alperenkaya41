@@ -5,8 +5,8 @@ Atatürk Üniversitesi'nde **Veri Bilimi ve Analitiği** öğrencisiyim. Aynı z
 ### 🎓 Eğitim
 
 - **Atatürk Üniversitesi** — Veri Bilimi ve Analitiği
-- **Anadolu Üniversitesi** — Yönetim Bilişim Sistemleri *(ikinci üniversite)*
-- **Atatürk Üniversitesi** — Bankacılık ve Sigortacılık *(ikinci üniversite)*
+- **Anadolu Üniversitesi** — Yönetim Bilişim Sistemleri
+- **Atatürk Üniversitesi** — Bankacılık ve Sigortacılık
 
 ### 🚀 Projeler
 
