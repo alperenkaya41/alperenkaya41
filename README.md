@@ -1,6 +1,6 @@
 ## Merhaba, ben Alperen Kaya 👋
 
-Atatürk Üniversitesi'nde **Veri Bilimi ve Analitiği** öğrencisiyim. Aynı zamanda Kocaeli'de personel temini alanında faaliyet gösteren **Max Efor Danışmanlık**'ın yetkilisiyim ve şirketimizin dijital tarafını yürütüyorum: kurumsal web sitesi, alan adı ve e-posta altyapısı, arama motoru optimizasyonu ve web performansı.
+Atatürk Üniversitesi'nde **Veri Bilimi ve Analitiği** öğrencisiyim. Aynı zamanda Kocaeli'de personel temini alanında faaliyet gösteren **Max Efor Danışmanlık Sosyal Hizmetler LTD. ŞTİ.**'nin yetkilisiyim ve şirketimizin dijital tarafını yürütüyorum: kurumsal web sitesi, alan adı ve e-posta altyapısı, arama motoru optimizasyonu ve web performansı.
 
 ### 🎓 Eğitim
 
