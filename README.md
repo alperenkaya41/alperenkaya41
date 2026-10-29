@@ -1,14 +1,21 @@
 ## Merhaba, ben Alperen Kaya 👋
 
-Kocaeli'de personel temini alanında faaliyet gösteren **Max Efor Danışmanlık**'ın yetkilisiyim. Şirketimizin dijital tarafını da yürütüyorum: kurumsal web sitesi, alan adı ve e-posta altyapısı, arama motoru optimizasyonu ve web performansı.
+Atatürk Üniversitesi'nde **Veri Bilimi ve Analitiği** öğrencisiyim. Aynı zamanda Kocaeli'de personel temini alanında faaliyet gösteren **Max Efor Danışmanlık**'ın yetkilisiyim ve şirketimizin dijital tarafını yürütüyorum: kurumsal web sitesi, alan adı ve e-posta altyapısı, arama motoru optimizasyonu ve web performansı.
 
-### 🚀 Öne çıkan proje
+### 🎓 Eğitim
+
+- **Atatürk Üniversitesi** — Veri Bilimi ve Analitiği
+- **Anadolu Üniversitesi** — Yönetim Bilişim Sistemleri *(ikinci üniversite)*
+- **Atatürk Üniversitesi** — Bankacılık ve Sigortacılık *(ikinci üniversite)*
+
+### 🚀 Projeler
 
 **[Max Efor Danışmanlık — Kurumsal Web Sitesi](https://github.com/alperenkaya41/max-efor-web)** · [max-efor.com](https://max-efor.com)
-
 11 sayfalık, mobil öncelikli kurumsal site: personel talep sihirbazı, iş başvurusu formu, duyuru paneli ve KVKK uyumu.
-
 `Lighthouse (mobil)` Performans **99** · Erişilebilirlik **100** · En İyi Uygulamalar **100** · SEO **100**
+
+**ATACORE — Atatürk Üniversitesi Yapay Zeka, Yazılım ve Ar-Ge Kulübü** · [ata-core.com](https://ata-core.com)
+Kulübün resmi web sitesi: etkinlikler, komiteler, ekip ve üyelik başvurusu.
 
 ### 🛠️ Kullandığım teknolojiler
 
